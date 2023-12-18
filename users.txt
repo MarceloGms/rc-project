@@ -1,0 +1,5 @@
+marcelo;123;administrador
+Pedro;123;administrador
+anibal;123;jornalista
+rui;123;leitor
+filipe;123;leitor
